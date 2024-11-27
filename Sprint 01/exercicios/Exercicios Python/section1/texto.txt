@@ -1,0 +1,1 @@
+Somente a configuração e instalacao de recursos necesarios para utilizar o python
