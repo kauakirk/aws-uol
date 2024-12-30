@@ -6,7 +6,7 @@ Meus principais hobbies incluem jogos online, assistir séries e acompanhar/joga
 
 Sprint 1:--------------------------------
 
-Sprint2: 
+Sprint 2: 
 1. Manipulação e Análise de Dados com Pandas
 Eu aprimorei minhas habilidades com a biblioteca Pandas para manipulação e análise de dados em Python:
 
@@ -58,6 +58,74 @@ Utilizei cláusulas WHERE para aplicar filtros específicos, como vendas realiza
 Ordenação e Limitação de Resultados:
 
 Organizei os resultados com ORDER BY e utilizei LIMIT para exibir apenas os mais relevantes, como os estados ou marcas com mais vendas.
+
+Sprint 3:
+
+Entropia e Classes
+Entropia: Mede a impureza de um conjunto de dados.
+Entropia = 0: Todas as instâncias pertencem à mesma classe.
+Entropia = 1: Todas as classes possuem o mesmo número de instâncias.
+Aprendizado Baseado em Grupo
+Combinar vários classificadores pode superar a performance de um único, ajustando hiperparâmetros adequados.
+Random Forest: Induz várias árvores de decisão, combina os resultados para aumentar a precisão.
+Classificação Baseada em Instância
+Encontra a instância mais semelhante utilizando medidas como a distância euclidiana.
+KNN (K-Nearest Neighbors): Algoritmo popular que classifica baseado nos vizinhos mais próximos.
+K-Means: Algoritmo de agrupamento (clustering) para separar dados em clusters.
+Regras de Associação
+Apriori: Se um conjunto de itens é frequente, todos os subconjuntos dele também são frequentes.
+Engenharia de Atributos
+Pré-processamento de Dados:
+Tratar valores nulos substituindo pela média, moda, ou criando uma nova classe.
+PCA (Análise de Componentes Principais): Reduz a dimensionalidade criando novos atributos sintéticos.
+Seleção de Características: Identificar as mais importantes para o modelo.
+Avaliação e Custo de Modelos
+Intervalo de confiança: Avalia a robustez dos resultados.
+Custo de erros:
+Falso positivo: Perda financeira.
+Falso negativo: Perda de oportunidade.
+Clusters
+Determinar se os clusters encontrados realmente existem ou são artefatos do modelo.
+Classificação Multilabel
+Classificar instâncias que podem pertencer a várias categorias simultaneamente.
+Exemplo: "Pode chover" e "Posso jogar bola".
+Métricas:
+Exact Match: Todos os rótulos corretos.
+Hamming Loss: Quanto mais próximo de 0, melhor.
+Classes Desbalanceadas
+Soluções:
+Coletar dados balanceados.
+Gerar dados artificialmente.
+AutoML e Tuning
+Automatização de tarefas como seleção de modelos, otimização de hiperparâmetros e avaliação.
+Redes Neurais
+Inspiradas nos cérebros de seres vivos, compostas por:
+Perceptron: Camadas de entrada com pesos, funções de ativação e saída.
+Deep Learning: Redes com várias camadas ocultas para problemas complexos.
+Taxa de aprendizado: Não pode ser muito alta ou baixa para garantir a convergência.
+Técnicas Avançadas
+Reconhecimento de Imagens:
+Convolução, Max Pooling, Flattening, Fully Connected Layers.
+LSTM (Long Short-Term Memory): Redes recorrentes para lembrar informações de longo prazo.
+Autoencoders: Redes para aprender representações compactas dos dados.
+Machine Learning Explicável
+Tornar modelos mais compreensíveis, mesmo que isso possa impactar a performance.
+Tipos de modelos:
+Caixa preta (Black Box): Difícil de interpretar.
+Caixa branca (White Box): Fácil de entender.
+Funções monotônicas: Modelos que seguem um único sentido lógico.
+Processamento de Linguagem Natural (PLN)
+Área focada em treinar modelos para compreender e gerar linguagem natural.
+
+worlrd embedding
+large languuage models
+fine tunning
+hugging face
+open ai
+detecção de anomalias: não existem regras gerais, dependo do contexto
+z-score
+técnicas de ml: local outilers fator, isolation forest,one class svm
+series temporais: moving average
 
 
 
