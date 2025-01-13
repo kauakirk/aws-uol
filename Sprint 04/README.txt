@@ -112,21 +112,5 @@ Bem-vindo ao repositório do curso **Python e SageMaker**! Este repositório é 
 - Tunagem de hiperparâmetros e validação cruzada.  
 - SHAP para avaliação do impacto de features.
 
----
 
-## 🛠 **Como usar**  
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-   ```  
-2. Instale as dependências:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Execute os notebooks no Jupyter Notebook ou JupyterLab.
-
----
-
-## 📧 **Contato**  
-Em caso de dúvidas ou sugestões, entre em contato pelo e-mail: **seu_email@example.com**
 
