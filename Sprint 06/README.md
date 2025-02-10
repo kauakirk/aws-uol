@@ -1,43 +1,55 @@
+# 📌 Aprendizados em Processamento de Linguagem Natural, LLMs, Face Recognition e MLOps
 
-# Instruções
+## 📖 Visão Geral
+Este documento resume os principais conceitos e habilidades adquiridos nos cursos concluídos na Udemy:
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+1. **Formação Processamento de Linguagem Natural, LLMs e Gen AI**
+2. **Face Recognition with Machine Learning + Deploy Flask App**
+3. **MLOps: Implantação e Operação de Modelos de Machine Learning**
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+---
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+## 🔹 Formação Processamento de Linguagem Natural, LLMs e Gen AI
+### ✨ Tópicos Principais:
+- **Fundamentos de PLN:** Tokenização, stemming, lematização, stopwords e embeddings.
+- **Modelos de Transformadores:** Arquitetura Transformer, BERT, GPT e outros modelos de LLM.
+- **Geração de Texto com IA:** Aplicação de LLMs para criação de conteúdo, sumarização e tradução.
+- **Treinamento e Fine-tuning:** Ajuste de modelos pré-treinados para tarefas específicas.
+- **Aplicações e Ferramentas:** Implementação prática usando Hugging Face, OpenAI API e LangChain.
 
+---
 
-# Exercícios
+## 🔹 Face Recognition with Machine Learning + Deploy Flask App
+### ✨ Tópicos Principais:
+- **Conceitos de Reconhecimento Facial:** Detecção de faces, extração de características e matching.
+- **Modelos e Algoritmos:** OpenCV, dlib, FaceNet e CNNs para reconhecimento facial.
+- **Treinamento e Avaliação:** Uso de embeddings para comparação de faces e métricas de acurácia.
+- **Implantação com Flask:** Construção de uma API para reconhecimento facial em tempo real.
+- **Integração e Testes:** Implementação de endpoints RESTful e testes de performance.
 
+---
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+## 🔹 MLOps: Implantação e Operação de Modelos de Machine Learning
+### ✨ Tópicos Principais:
+- **Pipeline de Machine Learning:** Automação de treinamento, validação e deploy.
+- **Versionamento de Modelos:** Uso de MLflow e DVC para controle de versões.
+- **CI/CD para ML:** GitHub Actions, Docker e Kubernetes para automação de deploys.
+- **Monitoramento e Manutenção:** Coleta de métricas, detecção de deriva de dados e reentrenamento.
+- **Cloud e Infraestrutura:** AWS SageMaker, GCP AI Platform e outras ferramentas para escalabilidade.
 
+---
 
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
+## 🚀 Aplicações Práticas e Projetos
+- Implementação de um chatbot utilizando LLMs.
+- Criação de um sistema de reconhecimento facial com Flask.
+- Deploy automatizado de modelos em nuvem usando MLOps.
 
+## 📌 Tecnologias e Ferramentas
+- **Linguagens:** Python
+- **Bibliotecas:** TensorFlow, PyTorch, OpenCV, Hugging Face, dlib
+- **MLOps:** Docker, Kubernetes, MLflow, DVC, AWS SageMaker
+- **Frameworks Web:** Flask
 
-
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+---
 
 
