@@ -1,43 +1,30 @@
+## 📌 Credit Risk Modeling in Python
 
-# Instruções
+Este curso foi uma imersão no desenvolvimento de modelos de risco de crédito usando Python. A abordagem foi bem prática, cobrindo desde a preparação dos dados até a validação e monitoramento do modelo.
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+### ✨ O que aprendi:
+- **Preparação de Dados**: Como processar e limpar dados de crédito para análise.
+- **Modelagem da Probabilidade de Default (PD)**: Construção de modelos para prever inadimplência.
+- **Validação do Modelo**: Técnicas para testar e validar a eficácia do modelo.
+- **Monitoramento do Modelo**: Estratégias para acompanhar o desempenho ao longo do tempo.
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+🚀 **Ferramentas usadas:** Python, Pandas, Scikit-Learn, Statsmodels, Matplotlib, Seaborn
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+---
 
+## 📌 Amazon Bedrock, Amazon Q & AWS Generative AI [HANDS-ON]
 
-# Exercícios
+Este curso foi uma introdução prática à IA generativa da AWS, com foco no Amazon Bedrock e Amazon Q. Aprendi como usar essas ferramentas para criar soluções baseadas em inteligência artificial na nuvem.
 
+### ✨ O que aprendi:
+- **Fundamentos de IA Generativa**: Como funcionam os modelos de fundação e seus usos.
+- **Amazon Bedrock**: Como utilizar a plataforma para acessar modelos de IA generativa.
+- **Amazon Q**: Como essa ferramenta pode ajudar desenvolvedores e profissionais de TI.
+- **Projetos Práticos**: Implementação de IA generativa para tarefas como criação de imagens e automação de processos.
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
-
-
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
+🚀 **Ferramentas usadas:** AWS, Amazon Bedrock, Amazon Q, Python, APIs de IA Generativa
 
 
 
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
-
+🚀 Com esses cursos, aprimorei meus conhecimentos tanto em modelagem de risco de crédito quanto em IA generativa na AWS.😃
 
