@@ -1,43 +1,40 @@
+Sprint 9 - Cursos e Preparação para Certificação AWS Cloud Practitioner
+Durante esta sprint, foram concluídos diversos cursos e materiais de preparação para a certificação AWS Certified Cloud Practitioner (CLF-C02). O foco foi consolidar conhecimentos essenciais sobre a nuvem AWS, seus serviços principais, melhores práticas e aspectos de segurança e governança.
 
-# Instruções
+📚 Cursos Concluídos
+Cloud Practitioner: Essentials
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+Conceitos fundamentais de computação em nuvem
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+Princípios de design na AWS
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+Modelos de responsabilidade compartilhada e segurança
 
+Cloud Practitioner: Curso Padrão de Preparação para o Exame (CLF-C02 - Português)
 
-# Exercícios
+Revisão completa dos tópicos cobrados na certificação
 
+Práticas recomendadas e estudos de caso
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+Simulados e questões comentadas
 
+Cloud Practitioner: Perguntas Práticas Oficiais (CLF-C02 - Português)
 
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
+Testes práticos baseados no exame real
 
+Questões com explicações detalhadas
 
+Simulação do ambiente da prova
 
+Certificação Amazon AWS Certified Cloud Practitioner CLF-C02
 
-# Evidências
+Guia estratégico para aprovação
 
+Dicas de preparação e gerenciamento de tempo na prova
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
-
-
+🎯 Principais Aprendizados
+✅ Fundamentos da computação em nuvem e modelo AWS
+✅ Arquitetura AWS e serviços principais (EC2, S3, RDS, IAM, etc.)
+✅ Segurança, conformidade e governança na AWS
+✅ Modelo de precificação e faturamento da AWS
+✅ Melhores práticas para a certificação CLF-C02
