@@ -62,40 +62,33 @@ Aqui estão os conhecimentos adquiridos ao longo das **sprints** do meu projeto 
 - Aprendi a **prever inadimplência** com modelos estatísticos.
 - Trabalhei com **Amazon Bedrock e Amazon Q** para criar soluções de **IA generativa na nuvem**.
 
-📌 Sprint 8 - Análise de Risco de Inadimplência e Crédito
+## 📌 Sprint 8 - Análise de Risco de Inadimplência e Crédito  
 🔗 Repositório
 
-Desenvolvi um projeto completo para prever inadimplência com base em dados da Home Credit.
+- Desenvolvi um projeto completo para prever inadimplência com base em dados da Home Credit.  
+- Apliquei técnicas de Ciência de Dados e Machine Learning com modelos como Regressão Logística, Decision Tree, Random Forest e XGBoost.  
+- Utilizei SHAP para interpretar as previsões do modelo.  
+- **Principais ferramentas:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Seaborn e Matplotlib.  
+- **Melhor desempenho:** XGBoost (Acurácia: 92%, AUC: 0.5897).  
+- Entreguei um notebook completo e gravei uma apresentação em vídeo explicando todo o processo.
 
-Apliquei técnicas de Ciência de Dados e Machine Learning com modelos como Regressão Logística, Decision Tree, Random Forest e XGBoost.
+---
 
-Utilizei SHAP para interpretar as previsões do modelo.
-
-Principais ferramentas: Python, Pandas, NumPy, Scikit-learn, XGBoost, Seaborn e Matplotlib.
-
-Melhor desempenho obtido com XGBoost (Acurácia: 92%, AUC: 0.5897).
-
-Entreguei um notebook completo e gravei uma apresentação em vídeo explicando todo o processo.
-
-☁️ Sprint 9 e 10 - Preparação para Certificação AWS Cloud Practitioner
+## ☁️ Sprint 9 e 10 - Preparação para Certificação AWS Cloud Practitioner  
 🔗 Repositório
 
-Concluí diversos cursos voltados para a certificação AWS Certified Cloud Practitioner (CLF-C02).
+- Concluí diversos cursos voltados para a certificação **AWS Certified Cloud Practitioner (CLF-C02)**.  
+- Estudei fundamentos da AWS, arquitetura de serviços, segurança, precificação e governança.  
+- **Cursos concluídos:**
+  - Cloud Practitioner Essentials  
+  - Curso padrão para o exame CLF-C02  
+  - Perguntas práticas oficiais  
+  - Guia estratégico para certificação  
+  - **AWS Cloud Quest: Cloud Practitioner** (abordagem gamificada)  
+  - **Simulearn AWS CLF-C02** (módulos interativos e simulados)  
+- Realizei diversos simulados e estou me preparando para agendar a certificação oficial.
 
-Estudei fundamentos da AWS, arquitetura de serviços, segurança, precificação e governança.
+---
 
-Cursos concluídos:
-
-Cloud Practitioner Essentials
-
-Curso padrão para o exame CLF-C02
-
-Perguntas práticas oficiais
-
-Guia estratégico para certificação
-
-AWS Cloud Quest: Cloud Practitioner (abordagem gamificada)
-
-Simulearn AWS CLF-C02 (módulos interativos e simulados)
-
-Realizei diversos simulados e estou me preparando para agendar a certificação oficial.
+📩 **Dúvidas ou Sugestões?**  
+Fique à vontade para entrar em contato! 🚀
