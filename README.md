@@ -62,7 +62,7 @@ Aqui estão os conhecimentos adquiridos ao longo das **sprints** do meu projeto 
 - Aprendi a **prever inadimplência** com modelos estatísticos.
 - Trabalhei com **Amazon Bedrock e Amazon Q** para criar soluções de **IA generativa na nuvem**.
 
-- 📌 Sprint 8 - Análise de Risco de Inadimplência e Crédito
+📌 Sprint 8 - Análise de Risco de Inadimplência e Crédito
 🔗 Repositório
 
 Desenvolvi um projeto completo para prever inadimplência com base em dados da Home Credit.
@@ -99,4 +99,3 @@ AWS Cloud Quest: Cloud Practitioner (abordagem gamificada)
 Simulearn AWS CLF-C02 (módulos interativos e simulados)
 
 Realizei diversos simulados e estou me preparando para agendar a certificação oficial.
-
