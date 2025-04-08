@@ -86,7 +86,7 @@ Aqui estão os conhecimentos adquiridos ao longo das **sprints** do meu projeto 
   - Guia estratégico para certificação  
   - **AWS Cloud Quest: Cloud Practitioner** (abordagem gamificada)  
   - **Simulearn AWS CLF-C02** (módulos interativos e simulados)  
-- Realizei diversos simulados e estou me preparando para agendar a certificação oficial.
+- Realizei diversos simulados e marquei o exame oficial.
 
 ---
 
